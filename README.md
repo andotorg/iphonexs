@@ -1,6 +1,11 @@
 ﻿# iphonexs
 iphonxs 韩版日版不越狱就可以去掉相机声音 解决方案
 
+### 手机参数说明
+手机型号： Iphone XS 金色版 256G 韩版
+手机处理器：A12
+手机操作系统版本：12.4
+
 ### 通过Impactor_0.9.52 安装到你的 Windows 电脑上
 
 > 双击打开soft/Impactor_0.9.52/Impactor.exe
